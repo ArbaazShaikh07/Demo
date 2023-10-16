@@ -1,4 +1,4 @@
 # Demo
 This is my first repository
 <br>
-Author - Arbaaz Shaikh
+Author - Arbaaz Shaikh (Demo)
